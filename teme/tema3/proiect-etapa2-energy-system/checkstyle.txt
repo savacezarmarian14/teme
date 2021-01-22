@@ -1,0 +1,11 @@
+Starting audit...
+[ERROR] C:\Users\PitziDinSiretu\Desktop\Tema3oop\teme\teme\proiect-etapa2-energy-system\.\src\entities\FacturaRestanta.java:4:9: Variable 'valoarePlataRestanta' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\PitziDinSiretu\Desktop\Tema3oop\teme\teme\proiect-etapa2-energy-system\.\src\entities\FacturaRestanta.java:5:18: Variable 'distribuitor' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\PitziDinSiretu\Desktop\Tema3oop\teme\teme\proiect-etapa2-energy-system\.\src\entities\Producator.java:9:16: Variable 'tipulEnergiei' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\PitziDinSiretu\Desktop\Tema3oop\teme\teme\proiect-etapa2-energy-system\.\src\entities\Producator.java:12:36: Variable 'listaDistribuitoriClienti' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\PitziDinSiretu\Desktop\Tema3oop\teme\teme\proiect-etapa2-energy-system\.\src\entities\Producator.java:13:42: Variable 'istoricClienti' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\PitziDinSiretu\Desktop\Tema3oop\teme\teme\proiect-etapa2-energy-system\.\src\io\Input.java:38:5: Method length is 153 lines (max allowed is 150). [MethodLength]
+[ERROR] C:\Users\PitziDinSiretu\Desktop\Tema3oop\teme\teme\proiect-etapa2-energy-system\.\src\strategies\EnergyChoiceStrategyType.java:10:25: Variable 'label' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\PitziDinSiretu\Desktop\Tema3oop\teme\teme\proiect-etapa2-energy-system\.\src\utils\Constants.java:3:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+Audit done.
+Checkstyle ends with 8 errors.

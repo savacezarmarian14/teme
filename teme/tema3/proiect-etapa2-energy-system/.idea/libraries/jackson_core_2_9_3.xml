@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jackson-core-2.9.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../tema2OOP/teme/teme/proiect-etapa1/libs/jackson-core-2.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../tema2OOP/teme/teme/proiect-etapa1/libs/jackson-annotations-2.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../tema2OOP/teme/teme/proiect-etapa1/libs/jackson-databind-2.9.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../tema2OOP/teme/teme/proiect-etapa1/libs/json-20140107.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../tema2OOP/teme/teme/proiect-etapa1/libs/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../tema2OOP/teme/teme/proiect-etapa1/libs/org.json.simple-0.3-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

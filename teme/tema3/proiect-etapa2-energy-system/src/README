@@ -1,0 +1,19 @@
+In Aceasta etapa am folosit metode / clase / variabile denumite in romana pentru a face mult mai usoara intelegerea codului
+In main am creat o instanta Game care are metoda gameTurn ( turnID )
+    In aceasta instanta denumita consolaSimularii am luat datele din test (incarcate prin clasa Input ) si pentru fiecare
+    runda a simularii , le-am modificat cum trebuia.
+    Metodele din clasa Game sunt de asemenea denumite in romana dar le voi explica pe cele esentiale
+    - sePlatescConsumatorii -> evident , se dau salariile consumatorilor (se aduna la buget venitul lunar)
+    - distribuitoriiAlegProducatorii -> in aceasta metoda am atribuit distribuitorilor , producatorii de care aveau nevoie
+        pentru a satura nevoia de electricitate . In cazul modificarilor la producatori , distribuitorii aleg iar producatorii
+    - calcueleazaCostulDeProductie -> Calculeaza costul obtinut din pretul pe KW si energia pentru distribuitori de la fiecare producator
+    - calculeazaProfitulDistribuitorilor -> Calculeaza ce profit au in functie de fiecare distribuitor
+    - consumatoriiAlegDistribuitorii -> consumatorii aleg cel mai bun distribuitor
+    - consumatoriiPlatescDistribuitorii -> consumatorii , din bugetul personal, platesc distribuitorii
+    - distribuitoriiPlatescTaxele -> evident si distreibuitorii sunt pusi la plata
+    - !!!! aplicaSchimbari -> am folosit si aici un designpattern  de Strategy pentru a aplica fiecare schimbare lunara
+
+Design Pattern :
+    - am folosit Strategy in alegerea producatorului
+    - nu am folosit Observer :(
+Am incercat cat mai mult abstractizarea codului folosind cat mai multe clase separate.

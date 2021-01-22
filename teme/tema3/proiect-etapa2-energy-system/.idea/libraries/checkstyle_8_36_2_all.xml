@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="checkstyle-8.36.2-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/checker/checkstyle-8.36.2-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tema-POO-2020/libs/json-20140107.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tema-POO-2020/libs/jackson-databind-2.9.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tema-POO-2020/libs/jackson-core-2.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tema-POO-2020/libs/jackson-annotations-2.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tema-POO-2020/libs/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Tema-POO-2020/libs/org.json.simple-0.3-incubating.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Tema-POO-2020" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Tema-POO-2020" />
+      <root url="file://$PROJECT_DIR$/../../../../Tema-POO-2020/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Tema-POO-2020" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Tema-POO-2020" recursive="false" type="SOURCES" />
+  </library>
+</component>
